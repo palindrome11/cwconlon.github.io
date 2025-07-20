@@ -58,7 +58,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Christopher (Chris) Conlon"
+  name   : "Chris Conlon"
   avatar : "/assets/images/wine_country_picture.png"
   bio    : "Maintaining Awesome"
   links:
