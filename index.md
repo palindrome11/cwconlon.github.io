@@ -9,3 +9,5 @@ author_profile: true
 ---
 
 Under Construction 
+
+![Ripple](/assets/images/mw-ripple.png)
