@@ -1,4 +1,7 @@
---- permalink: /about/ title: "About" ---
+--- 
+permalink: /about/ 
+title: "About" 
+---
 
 After so many years of pushing this task down the road, I am finally
 building this personal space in the web-o-sphere. I have been writing
