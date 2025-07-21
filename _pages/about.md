@@ -1,6 +1,6 @@
 --- 
 permalink: /about/ 
-title: "About Everything" 
+title: "About Everything ... " 
 ---
 
 After so many years of pushing this task down the road, I am finally
