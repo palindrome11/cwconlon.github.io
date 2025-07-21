@@ -18,7 +18,8 @@ gravity sometimes and sometimes not.
 The Blog will be the starting point but branches will emerge and I'll
 point out the trail heads here for those who enjoy exploring with me.
 
-<!--![Bilbo and Gandalf](/assets/images/Bilbo_And_Gandy.jpg){: .align-center}-->
+![Bilbo and Gandalf](/assets/images/Bilbo_And_Gandy.jpg){: .align-center}
+
 <!-- [placeholder](https://via.placeholder.com/100x150){:.centered} -->
 
 
