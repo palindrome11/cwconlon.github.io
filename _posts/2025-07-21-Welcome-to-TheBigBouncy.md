@@ -8,13 +8,13 @@ tags:
   - update
 ---
 
-I can see clearly now, the rain is gone
-I can see all obstacles in my way
-Gone are the dark clouds that had me blind
-
-It's gonna be a bright (bright), bright (bright)
-Sun-shiny day
-It's gonna be a bright (bright), bright (bright)
-Sun-shiny day
+I can see clearly now, the rain is gone<br />
+I can see all obstacles in my way<br />
+Gone are the dark clouds that had me blind<br />
+<br />
+It's gonna be a bright (bright), bright (bright)<br />
+Sun-shiny day<br />
+It's gonna be a bright (bright), bright (bright)<br />
+Sun-shiny day<br />
 
                            - Song By Johnny Nash - 1972
