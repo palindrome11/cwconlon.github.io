@@ -62,9 +62,13 @@ author:
   avatar : "/assets/images/wine_country_picture.png"
   bio    : "Maintaining Awesome"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
+#    - label: "Website"
+#      icon: "fas fa-fw fa-link"
+#      url: "https://"
+#
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:cwconlon@gmail.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
@@ -74,12 +78,13 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
-    - label: "email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:cwconlon@gmail.com"
+
 
 footer:
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:cwconlon@gmail.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
@@ -89,6 +94,7 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
+
 
 defaults:
   # _posts
